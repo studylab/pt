@@ -1,0 +1,54 @@
+============================================
+  Open source hardware laptop organisation
+============================================
+
+ I- Open Source/Freedom organization to assemble the perfect laptop
+
+    This is not an open source software, not an open source hardware,
+    no this is an open source organization.
+
+    Let's build the first version, v0.1 of this open source organization,
+    that will assemble a pleasant laptop computer tool for computer professionals.
+
+    Let's breathe a little be here. We are not going to chase the latest
+    fad in computing look and design, we are simply here to assemble a robust,
+    reliable, dependable, easily upgradable laptop computer. Regarding the appearance
+    of the result, we are simply counting on the fact that form follows function.
+
+    The computer industry has been too slow to deliver such an appliance, so
+    we are taking things in our own hands.
+
+    Since assembling a machine (computer) is all about information
+    and computer tools and the Internet are built for manipulating
+    information, then we should be able to create an open source
+    organisation. That organisation would assemble the Perfect Laptop!
+    At least for computer experts: programmers, video editing, music creators...
+    Then eventually the general public may come to it.
+    
+    We need collaborating groups:
+    What could be these groups ?
+    . Laptop order entry point group
+    . keyboard group
+    . screen group
+    . motherboard group
+    . casing group
+    . power supply group
+    . trackpad group
+    . connectivity (usb, dvi, thunderbird, etc...) group
+    . wifi group
+    . ethernet group 
+    . speaker and sound group
+    . harddrive and storage group
+    . RAM group
+    . cpu group
+    . assembly group
+    . storage and distribution group
+
+    Now we would need people to participate in one or more or these groups.
+    
+    Maybe one group that comes early is the motherboard group.
+    What are the possible motherboards being available today in January 2016 ?
+    What are the dimensions and the shape to fit in a case that the casing group
+    will try to find or make it produced if we have precisely defined specs and
+    enough orders are placed.
+    
