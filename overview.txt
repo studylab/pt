@@ -55,4 +55,13 @@
     This whole open source organization concept has to be invented, it is all new,
     so for the moment everything is wide open for our imagination...
     
+    How will these groups communicate smoothly with each other ? I am thinking with
+    software tools that also probably need to be created of course open source style.
     
+    Each group could have a code that would interact with all the other group
+    through APIs. For this ambitious idea, we may have to forget the phone pen
+    and papers as a way to organize the whole thing...
+    
+    P.
+    StudyLab
+    http://studylab.info.tm
