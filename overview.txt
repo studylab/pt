@@ -52,3 +52,7 @@
     will try to find or make it produced if we have precisely defined specs and
     enough orders are placed.
     
+    This whole open source organization concept has to be invented, it is all new,
+    so for the moment everything is wide open for our imagination...
+    
+    
