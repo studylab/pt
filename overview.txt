@@ -1,29 +1,31 @@
-============================================
-  Open source hardware laptop organisation
-============================================
+==============================================
+  Open Source Organisation for a great latop
+==============================================
 
  I- Open Source/Freedom organization to assemble the perfect laptop
 
-    This is not an open source software, not an open source hardware,
-    no this is an open source organization.
+    This is not an open source software, not an open source hardware, no,
+    this is an open source organization.
 
-    Let's build the first version, v0.1 of this open source organization,
+    Let's build the first version of this open source organization,
     that will assemble a pleasant laptop computer tool for computer professionals.
 
-    Let's breathe a little be here. We are not going to chase the latest
-    fad in computing look and design, we are simply here to assemble a robust,
-    reliable, dependable, easily upgradable laptop computer. Regarding the appearance
-    of the result, we are simply counting on the fact that form follows function.
+    We are not going to chase the latest fad in computing look and design,
+    we are simply here to assemble a robust, reliable, dependable, easily upgradable
+    laptop computer. Regarding the appearance of the result, we are simply counting
+    on the fact that form follows function.
 
     The computer industry has been too slow to deliver such an appliance, so
     we are taking things in our own hands.
 
-    Since assembling a machine (computer) is all about information
-    and computer tools and the Internet are built for manipulating
-    information, then we should be able to create an open source
-    organisation. That organisation would assemble the Perfect Laptop!
-    At least for computer experts: programmers, video editing, music creators...
-    Then eventually the general public may come to it.
+    Since assembling a computer is all about information really,
+    and the fact that our computer tools and the Internet are built
+    for just that, manipulating information, we should be able to create
+    an open source organisation thanks to these tools. That organisation
+    would assemble the Perfect Laptop!
+    It would be first and foremost aimed at computer professionals: programmers,
+    engineers, video editing, music creators...
+    Maybe eventually the general public may come to it.
     
     We need collaborating groups:
     What could be these groups ?
@@ -44,10 +46,10 @@
     . assembly group
     . storage and distribution group
 
-    Now we would need people to participate in one or more or these groups.
+    Now we would need people to participate in any (one or more) of these groups.
     
     Maybe one group that comes early is the motherboard group.
-    What are the possible motherboards being available today in January 2016 ?
+    What are the possible motherboards being available today in April 2016 ?
     What are the dimensions and the shape to fit in a case that the casing group
     will try to find or make it produced if we have precisely defined specs and
     enough orders are placed.
@@ -55,13 +57,14 @@
     This whole open source organization concept has to be invented, it is all new,
     so for the moment everything is wide open for our imagination...
     
-    How will these groups communicate smoothly with each other ? I am thinking with
-    software tools that also probably need to be created of course open source style.
+    How will these groups communicate smoothly with each other ? They will operate with
+    software tools that also need to be created open source style.
     
     Each group could have a code that would interact with all the other group
-    through APIs. For this ambitious idea, we may have to forget the phone pen
-    and papers as a way to organize the whole thing...
+    through APIs. For this ambitious idea, we have to forget the phone, pen
+    and papers as a way to organize the whole thing... only software and APIs.
     
     P.
     StudyLab
     http://studylab.info.tm
+
