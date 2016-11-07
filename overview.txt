@@ -1,33 +1,51 @@
 ==============================================
-  Open Source Organisation for a great latop
+  Free Organisation for a great latop
 ==============================================
 
- I- Open Source/Freedom organization to assemble the perfect laptop
+I am starting to think that we should pay more attention to the terminology
+the FSF (www.fsf.org) is using regarding the important difference between
+open source and free (like freedom).
+Should this new type of organization be viewed as open source or free ?
+Since there is a strong appeal for free software, my intuition tells me that
+there probably should be a strong appeal for a free organization.
+Maybe a free organization is more suited to create free software
+and more importantly here free hardware.
+So instead of talking about an open source organization, let's call it now
+a free organization.
 
-    This is not an open source software, not an open source hardware, no,
-    this is an open source organization.
 
-    Let's build the first version of this open source organization,
+
+With that in mind here is a newer version of this overview text:
+
+
+
+ I- Free (as in freedom) organization to assemble a great laptop
+
+    This is not an open source/free software, not an open source/free hardware, no,
+    this is a free *organization*.
+
+    Let's build the first version of this free organization,
     that will assemble a pleasant laptop computer tool for computer professionals.
 
-    We are not going to chase the latest fad in computing look and design,
+    We are not going to chase the latest fad in computing look and design, bells and whistles,
     we are simply here to assemble a robust, reliable, dependable, easily upgradable
     laptop computer. Regarding the appearance of the result, we are simply counting
     on the fact that form follows function.
 
-    The computer industry has been too slow to deliver such an appliance, so
+    The computer industry has been too slow to deliver such an appliance (and I am not
+    even talking about the fairly disappointing new macbook pro 2016...), so
     we are taking things in our own hands.
 
     Since assembling a computer is all about information really,
-    and the fact that our computer tools and the Internet are built
-    for just that, manipulating information, we should be able to create
-    an open source organisation thanks to these tools. That organisation
-    would assemble the Perfect Laptop!
+    and the fact that our computers and the Internet are tools built
+    for just that, the manipulation information, we should be able to create
+    a organisation thanks to these tools. That organisation
+    would assemble a great laptop!
     It would be first and foremost aimed at computer professionals: programmers,
     engineers, video editing, music creators...
-    Maybe eventually the general public may come to it.
     
-    We need collaborating groups:
+    The vision is to organize ourselves into collaborating groups. A groups
+    for each element and sub-element of the object beeing built:
     What could be these groups ?
     . Laptop order entry point group
     . keyboard group
@@ -63,7 +81,16 @@
     Each group could have a code that would interact with all the other group
     through APIs. For this ambitious idea, we have to forget the phone, pen
     and papers as a way to organize the whole thing... only software and APIs.
+
     
+II- Money
+
+    Hardware manufacturing and shipping will require financing.
+    The solution envisioned is: as the knowledge, software and hardware crop up,
+    the money, the financing for the hardware manufacturing + shipping will fairly
+    trickle down the group tree.
+
+
     P.
     StudyLab
     http://studylab.info.tm
