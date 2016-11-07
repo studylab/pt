@@ -1,10 +1,13 @@
 ==============================================
-  Free Organisation for a great latop
+  Free Organization for a great laptop
 ==============================================
+
+This is an off the wall project idea, but let's just our imagination
+run freely.
 
 I am starting to think that we should pay more attention to the terminology
 the FSF (www.fsf.org) is using regarding the important difference between
-open source and free (like freedom).
+open source and free (as freedom).
 Should this new type of organization be viewed as open source or free ?
 Since there is a strong appeal for free software, my intuition tells me that
 there probably should be a strong appeal for a free organization.
@@ -36,37 +39,47 @@ With that in mind here is a newer version of this overview text:
     even talking about the fairly disappointing new macbook pro 2016...), so
     we are taking things in our own hands.
 
-    Since assembling a computer is all about information really,
-    and the fact that our computers and the Internet are tools built
-    for just that, the manipulation information, we should be able to create
-    a organisation thanks to these tools. That organisation
-    would assemble a great laptop!
+    Assembling a computer is all about information. As is the manufacturing of
+    all things really.
+    Our computers and the Internet are tools built for just that, i.e the manipulation
+    information. Therefore we should be able to create this free organization with these tools,
+    that would assemble a great laptop!
     It would be first and foremost aimed at computer professionals: programmers,
     engineers, video editing, music creators...
+
+    My guess is we are going to start with one basic model, upgradable indefinitely.
+    Later we will probably looking at a second model with a larger screen making it
+    a little less convenient to carry arround. But that would be in the future, once
+    we already have succeeded in the creation of the first model.
     
     The vision is to organize ourselves into collaborating groups. A groups
-    for each element and sub-element of the object beeing built:
+    for each element and sub-element of the object beeing built here a laptop:
     What could be these groups ?
-    . Laptop order entry point group
+    . Laptop order entry point group (see the Money section below)
     . keyboard group
     . screen group
     . motherboard group
+    . cpu group
+    . RAM group
+    . harddrive and storage group
     . casing group
     . power supply group
+    . battery group
     . trackpad group
     . connectivity (usb, dvi, thunderbird, etc...) group
     . wifi group
     . ethernet group 
     . speaker and sound group
-    . harddrive and storage group
-    . RAM group
-    . cpu group
     . assembly group
     . storage and distribution group
 
-    Now we would need people to participate in any (one or more) of these groups.
-    
-    Maybe one group that comes early is the motherboard group.
+    These groups simply consist of people distributed around the world working together
+    as one unit, here called a group.
+
+    People can participate in any (one or more) of these groups, which ever is more interesting
+    to them, very much like open source/free software works nowadays.
+
+    Maybe one group that should come early is the motherboard group.
     What are the possible motherboards being available today in April 2016 ?
     What are the dimensions and the shape to fit in a case that the casing group
     will try to find or make it produced if we have precisely defined specs and
@@ -85,10 +98,24 @@ With that in mind here is a newer version of this overview text:
     
 II- Money
 
-    Hardware manufacturing and shipping will require financing.
+    Hardware manufacturing and shipping will require financing. We are not dealing
+    with just software here, which costs nothing to move around. Hardware has hard
+    physical realities attributes.
+
     The solution envisioned is: as the knowledge, software and hardware crop up,
     the money, the financing for the hardware manufacturing + shipping will fairly
     trickle down the group tree.
+
+    We probably should find a way to compensate financially all the different groups,
+    beyond just the hardware manufacturing and shipping, but also for the time and energies
+    provided by all these groups. It will be probably tricky to get it right, but like
+    everything else, things will be optimized along the way.
+
+    The "Laptop order entry point group" will be there as a meeting point between
+    the laptop buyers and the whole ecosystem of groups. At this entry point will
+    come in the orders ( specs, quantity, payment, delivery address) and come out
+    the laptops.
+    
 
 
     P.
