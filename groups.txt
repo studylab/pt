@@ -1,0 +1,159 @@
+The first raw list of possible groups was:
+
+    . Laptop order entry point group (see the Money section below)
+    . keyboard group
+    . screen group
+    . motherboard group
+    . cpu group
+    . RAM group
+    . harddrive and storage group
+    . casing group
+    . power supply group
+    . battery group
+    . trackpad group
+    . connectivity (usb, dvi, thunderbird, etc...) group
+    . wifi group
+    . ethernet group 
+    . speaker and sound group
+    . assembly group
+    . storage and distribution group
+
+
+Now, we rearrange that raw list into logical blocks that makes more
+sense as a starting structure. It is just the begining and of course
+there are only a few people involved who can only handle so much groups.
+The granularity will increase with the number of people involved.
+
+
+So we have now 5 super groups:
+
+
+I   Logistic Group:
+    . Laptop order entry point group (see the Money section below)
+    . assembly group
+    . stocks and distribution group
+
+II  Computing Group:
+    . motherboard group
+    . cpu group
+    . RAM group
+    . harddrive and storage group
+
+III IO Group:
+    . screen group
+    . connectivity (usb, dvi, thunderbird, etc...) group
+    . wifi group
+    . ethernet group 
+
+IV  UX Group:
+    . keyboard group
+    . trackpad group
+    . speaker and sound group
+    . casing group
+
+V   Energy Group:
+    . power supply group
+    . battery group
+
+
+------------------------------------------------------
+
+
+I   Logistic Group:
+===================
+    . Laptop order entry point group
+    . assembly group
+    . stocks and distribution group
+
+
+Entry point:
+
+    price targets:
+      version 1 proof of concept: max USD$500
+      version 2 real machine: max USD$1000
+
+    contact: email us.
+    order: send
+            address for delivery
+            quantity  
+            payment
+
+
+Assembly:
+
+There will probably be no assembly for the proof of concept, or even
+maybe for all the future verions since it is supposed to be a freely
+upgradable machine, therefore with all components accessible to the
+user.
+
+
+Distribution:
+
+The distribution will send all the elements to the address given by the
+buyer. Should it be sent in one big package or in multiple packages shipped
+directly by the supplier to keep the logistic to a minimum for now (for ever ?).
+
+
+
+II   Computing Group:
+=====================
+    . motherboard group
+    . cpu group
+    . RAM group
+    . harddrive and storage group
+    . graphic card
+
+Which hardware is the most GNU/Linux friendly ?
+AMD or Intel ?
+
+  version 1 proof of concept:
+    mother board:
+    cpu:
+    RAM:   16G minimum
+    hdd:  256G minimum
+    graphic card:
+
+  version 2: to be determined.
+
+
+
+
+III  IO Group:
+==============
+    . screen group
+    . connectivity (usb, dvi, thunderbird, etc...) group
+    . wifi group
+    . ethernet group 
+
+
+Screen group:
+
+Mate screen, and high definition 2560-by-1600 (close to current macbook pro spec)
+
+wifi:
+No Linux difficulty non sense with drivers.
+
+IV  UX Group:
+=============
+    . keyboard group
+    . trackpad group
+    . speaker and sound group
+    . casing group
+
+Keyboard:
+The ideals are the Apple IIc keyboard from the 80's, or the nice
+IBM Thinkpads keyboard, the one before Lenovo changed it following
+the current Apple keyboard idea of spaced out keys.
+Also, it should preferably be water proof.
+
+
+V   Energy Group:
+=================
+    . power supply group
+    . battery group
+
+Figure out precisely what is the power consumption of the machine.
+Use the most standards plug shape.
+Figure out a stand alone solution with a solar panel.
+The battery aspect will be key with a solar panel solution.
+

@@ -2,17 +2,18 @@
   Free Organization for a great laptop
 ==============================================
 
-This is an off the wall project idea, but let's just our imagination
-run freely.
+This is an off the wall project idea, but let's just have our imagination
+run wilde and free for now.
 
 I am starting to think that we should pay more attention to the terminology
 the FSF (www.fsf.org) is using regarding the important difference between
 open source and free (as freedom).
-Should this new type of organization be viewed as open source or free ?
-Since there is a strong appeal for free software, my intuition tells me that
-there probably should be a strong appeal for a free organization.
-Maybe a free organization is more suited to create free software
-and more importantly here free hardware.
+Should our new type of organization we are building here be viewed as open source
+or free ?
+Since the free software philosophy is a very intersting and seemingly user enpowering
+proposition, I would intuitively suspect there is an appeal for a free organization.
+Maybe a free organization is also the best fit to create free software and also,
+very importantly here, free hardware.
 So instead of talking about an open source organization, let's call it now
 a free organization.
 
@@ -30,30 +31,30 @@ With that in mind here is a newer version of this overview text:
     Let's build the first version of this free organization,
     that will assemble a pleasant laptop computer tool for computer professionals.
 
-    We are not going to chase the latest fad in computing look and design, bells and whistles,
-    we are simply here to assemble a robust, reliable, dependable, easily upgradable
-    laptop computer. Regarding the appearance of the result, we are simply counting
+    We are not going to chase the latest fad in computer hardware look and design, with
+    the latest bells and whistles, and other non-sense distractions to steer the average
+    user into a given product. We are simply here to assemble a robust, reliable, dependable,
+    easily upgradable laptop computer. Regarding the appearance of the result, we are counting
     on the fact that form follows function.
 
     The computer industry has been too slow to deliver such an appliance (and I am not
-    even talking about the fairly disappointing new macbook pro 2016...), so
+    even talking about the somehow disappointing new macbook pro 2016...), so
     we are taking things in our own hands.
 
-    Assembling a computer is all about information. As is the manufacturing of
+    Assembling a computer is all about information after all. As is the manufacturing of
     all things really.
-    Our computers and the Internet are tools built for just that, i.e the manipulation
+    Our personal computers and the Internet are tools built for just that, i.e handling
     information. Therefore we should be able to create this free organization with these tools,
     that would assemble a great laptop!
     It would be first and foremost aimed at computer professionals: programmers,
     engineers, video editing, music creators...
 
     My guess is we are going to start with one basic model, upgradable indefinitely.
-    Later we will probably looking at a second model with a larger screen making it
-    a little less convenient to carry arround. But that would be in the future, once
-    we already have succeeded in the creation of the first model.
+    Later we will probably looking at an additional model with a larger screen,
+    once we already have succeeded in the creation of the first model.
     
     The vision is to organize ourselves into collaborating groups. A groups
-    for each element and sub-element of the object beeing built here a laptop:
+    for each element and sub-element of the product beeing built, here a laptop:
     What could be these groups ?
     . Laptop order entry point group (see the Money section below)
     . keyboard group
@@ -74,22 +75,21 @@ With that in mind here is a newer version of this overview text:
     . storage and distribution group
 
     These groups simply consist of people distributed around the world working together
-    as one unit, here called a group.
+    as one unit via the Internet, through APIs.
 
-    People can participate in any (one or more) of these groups, which ever is more interesting
-    to them, very much like open source/free software works nowadays.
+    People can freely participate in any (one or more) of these groups, which ever
+    is more interesting to them, very much like how open source/free software works nowadays.
 
     Maybe one group that should come early is the motherboard group.
     What are the possible motherboards being available today in April 2016 ?
     What are the dimensions and the shape to fit in a case that the casing group
-    will try to find or make it produced if we have precisely defined specs and
-    enough orders are placed.
+    will find or produce with precisely defined specs.
     
-    This whole open source organization concept has to be invented, it is all new,
+    This whole open source organization concept is being invented, it is all new,
     so for the moment everything is wide open for our imagination...
     
     How will these groups communicate smoothly with each other ? They will operate with
-    software tools that also need to be created open source style.
+    software tools that also need to be created free software style.
     
     Each group could have a code that would interact with all the other group
     through APIs. For this ambitious idea, we have to forget the phone, pen
@@ -103,7 +103,7 @@ II- Money
     physical realities attributes.
 
     The solution envisioned is: as the knowledge, software and hardware crop up,
-    the money, the financing for the hardware manufacturing + shipping will fairly
+    the money, the financing for the hardware manufacturing + shipping will
     trickle down the group tree.
 
     We probably should find a way to compensate financially all the different groups,
